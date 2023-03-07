@@ -1,0 +1,28 @@
+body {
+    background-color: #d5e1ef;
+    text-align: center;
+    box-sizing: content-box;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+.rectangle__blanc {
+    width: 320px;
+    height: 559px;
+    background-image: radial-gradient(circle at 43.84% 120.44%, #fffeb3 0, #ffffb0 5%, #ffffae 10%, #feffad 15%, #eeffad 20%, #dcffad 25%, #c9ffae 30%, #b2feb0 35%, #99fbb3 40%, #7bf7b7 45%, #53f2bc 50%, #00edc3 55%, #00e7cc 60%, #00e2d6 65%, #00dee2 70%, #00d9ee 75%, #00d5fa 80%, #00d1ff 85%, #00cdff 90%, #00c9ff 95%, #00c5ff 100%);
+    margin-top: 10%;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.40) 0px 3px 8px;;
+}
+img {
+    width: 300px;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.60)
+}   
+p {
+    font-size: 25px;
+    margin: 15px;
+    margin-top: 60px;
+}
